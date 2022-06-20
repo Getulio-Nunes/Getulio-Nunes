@@ -6,3 +6,11 @@
 - :notebook_with_decorative_cover:	Estou seguindo a trilha de conhecimento da Alura.
 - :gear: Sou alto astral, gosto de trabalhar em equipe e curto de desafios.
 
+
+## Tecnologias que atualmente utilizo
+
+<div style="display: inline_box"><br/>
+    <img align="center" alt"html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">/
+  
+ </div>
+  
