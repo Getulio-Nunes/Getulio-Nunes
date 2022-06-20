@@ -7,7 +7,7 @@
 - :gear: Sou alto astral, gosto de trabalhar em equipe e curto de desafios.
 
 
-## Tecnologias que atualmente utilizo
+## Tecnologias que atualmente utilizo em meus estudos :man_student:
 
 <div style="display: inline_box"><br/>
     <img align="center" alt"html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
