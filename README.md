@@ -1,7 +1,7 @@
 ## Olá, sou o Getúlio.
 
 - 🔭 Trabalho hoje como Técnico de Informática.
-- 🌱 Estou focado em transformar minha carreira profissional para Programador front-End.
+- :man_student: Estou focado em transformar minha carreira profissional para Programador front-End.
 - 🌱 No momento estou aplicando meus estudos em HTML, CSS e JavaScript. 
 - 😄 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
