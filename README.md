@@ -1,6 +1,6 @@
 <div align="center">
  
-<h1>Olá, sou o Getúlio</h1></br></br>  
+<h1>Olá, sou o Getúlio</h1></br>
     
 <div>
     
@@ -12,7 +12,7 @@
 | :gear: Sou alto astral, gosto de trabalhar em equipe e curto de desafios.|
 </div></br></br>
      
-<h2>Tecnologias que atualmente utilizo em meus estudos :man_student:</h2></br></br>
+<h2>Tecnologias que atualmente utilizo em meus estudos :man_student:</h2></br>
 
 <div>
     <img align="center" alt"SQL Server" src="https://user-images.githubusercontent.com/82662952/175071995-9bd747a9-572f-4ab6-95c2-a23960c5d755.png" width ="100px">
