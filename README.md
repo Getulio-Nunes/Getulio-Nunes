@@ -10,7 +10,7 @@
 | :dart: Estou focado em transformar minha carreira profissional para desenvolvedor full stack.|
 | :notebook_with_decorative_cover:	Estou seguindo a trilha de conhecimento da Alura.|
 | :gear: Sou alto astral, gosto de trabalhar em equipe e curto de desafios.|
-</div></br></br>
+</div></br>
      
 <h2>Tecnologias que atualmente utilizo em meus estudos :man_student:</h2></br>
 
@@ -20,7 +20,7 @@
     <img align="center" alt"CSS3" src="https://user-images.githubusercontent.com/82662952/175072310-9eee7c90-ae32-4b8b-ae66-f097be7d348c.png" width ="72px">
     <img align="center" alt"html5" src="https://user-images.githubusercontent.com/82662952/175074743-5ff822b8-a1bf-4fb2-a3f5-eaebbf58bd85.png" width ="83px">  
     <img align="center" alt"html5" src="https://user-images.githubusercontent.com/82662952/175075264-df7ca335-bf03-473c-98fd-ab82af6dddd4.png" width ="240px">
-</div></br></br></br>
+</div></br></br>
   
 
 
