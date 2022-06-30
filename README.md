@@ -1,5 +1,5 @@
 <div align="center">
- 
+ color:white
 <h1>Olá, sou o Getúlio</h1></br>
     
 <div>
